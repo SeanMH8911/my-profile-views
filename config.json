@@ -3,15 +3,15 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "Console-Finances"
-    "Password-Generator"
-    "Bootstrap-Portfolio"
-    "Lead-Tracker-Chrome-Extension"
-    "Blackjack-Game"
-    "everythingspanish"
-    "canary-club-aws"
-    "booking"
-    "Ignite"
+    "Console-Finances",
+    "Password-Generator",
+    "Bootstrap-Portfolio",
+    "Lead-Tracker-Chrome-Extension",
+    "Blackjack-Game",
+    "everythingspanish",
+    "canary-club-aws",
+    "booking",
+    "Ignite",
     "MusicApp"
   ]
 }
