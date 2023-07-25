@@ -229,22 +229,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SeanMH8911/my-profile-views/tree/master/readme/592336177/year.md">
-				Javascript-Quiz
-			</a>
-		</td>
-		<td>
-			2023/7/23 1:02 AM UTC
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/SeanMH8911/my-profile-views/raw/master/graph/592336177/small/year.png" height="20"> 65
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/SeanMH8911/my-profile-views/tree/master/readme/590909651/year.md">
 				Sanity-NextJs13-Blog
 			</a>
@@ -389,7 +373,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/7/25 12:24 PM UTC</i></small>
+<small><i>Last updated on 2023/7/25 6:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
