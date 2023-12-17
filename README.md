@@ -309,22 +309,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SeanMH8911/my-profile-views/tree/master/readme/598566011/year.md">
-				Music-Genie
-			</a>
-		</td>
-		<td>
-			2023/12/15 12:50 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/SeanMH8911/my-profile-views/raw/master/graph/598566011/small/year.png" height="20"> 45
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/SeanMH8911/my-profile-views/tree/master/readme/607769046/year.md">
 				ReadMe-Generator
 			</a>
@@ -389,7 +373,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/17 6:14 AM UTC</i></small>
+<small><i>Last updated on 2023/12/17 12:19 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
