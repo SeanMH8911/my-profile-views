@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/SeanMH8911/my-profile-views/tree/master/readme/579362502/year.md">
-				Blackjack-Game
-			</a>
-		</td>
-		<td>
-			2024/4/22 12:48 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/SeanMH8911/my-profile-views/raw/master/graph/579362502/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/SeanMH8911/my-profile-views/tree/master/readme/579332556/year.md">
 				everythingspanish
 			</a>
@@ -389,7 +373,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/4/24 6:17 AM UTC</i></small>
+<small><i>Last updated on 2024/4/24 12:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
